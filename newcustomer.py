@@ -28,7 +28,7 @@ def generate_data():
         'Customer Name': ['Mohamed Samir', 'Ahmed Ibrahim', 'Abdallah', 'DR/ Mohamed Adel Kamel', 'Lobna Shafie', 
                           'Nada Yasser', 'Roula gamal', 'Grace Lee', 'Hannah Scott', 'Isaac Green'],
         'Email Address': ['Mohamed.Samir0893@gmail.com', 'Ahmed.Ibrahim@yahoo.com', 'Mohamed.Adel.Kamel@hotmail.com', 'Lobna.Shafie@outlook.com', 'Nada.Yasser@aol.com',
-                          'Roula.gamal@gmail.com', 'Roula.gamal@yahoo.com', 'gracelee@mail.com', 'hannah_scott@gmail.com', 'isaac.green@outlook.com'],
+                          'Nada.Yasser@gmail.com', 'Roula.gamal@yahoo.com', 'gracelee@mail.com', 'hannah_scott@gmail.com', 'isaac.green@outlook.com'],
         'Age': [31, 33, 28, 45, 29, 26, 30, 25, 32, 38],
         'City': ['Cairo', 'Giza', 'Giza', 'Alexandria', 'Alexandria', 'Cairo', 'Cairo', 'Alexandria', 'Mansoura', 'Cairo'],
         'Order Value': [250, 500, 800, 2000, 600, 450, 200, 600, 300, 700],
